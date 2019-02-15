@@ -1,5 +1,7 @@
-# cryptocurrency-elliptic-curves
-A mapping of cryptocurrencies to their supported elliptic curve
+# Cryptocurrency Elliptic Curves
+Below is a mapping of cryptocurrencies to their supported elliptic curve.
+
+Please feel free to submit a PR with edits or to add tokens to this list.
 
 | Token | Blockchain | Curve |
 |-------|------------|-------|
